@@ -1,2 +1,2 @@
 # tindog
-A webpage made using HTML,CSS and JavaScript
+A webpage made using HTML and CSS.
